@@ -6,8 +6,6 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "react-scripts start",
-    "deploy": "gh-pages -d build",
     "build": "vite build",
     "preview": "vite preview"
   },
